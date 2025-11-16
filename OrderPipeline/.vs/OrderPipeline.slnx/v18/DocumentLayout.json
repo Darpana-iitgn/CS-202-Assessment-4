@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darpa\\source\\repos\\Darpana-iitgn\\CS-202-Assessment-4\\OrderPipeline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE4BD11-1982-DEA1-C164-F998E065F102}|OrderPipeline\\OrderPipeline.csproj|c:\\users\\darpa\\source\\repos\\darpana-iitgn\\cs-202-assessment-4\\orderpipeline\\orderpipeline\\orderpipelineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE4BD11-1982-DEA1-C164-F998E065F102}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\orderpipelineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE4BD11-1982-DEA1-C164-F998E065F102}|OrderPipeline\\OrderPipeline.csproj|c:\\users\\darpa\\source\\repos\\darpana-iitgn\\cs-202-assessment-4\\orderpipeline\\orderpipeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE4BD11-1982-DEA1-C164-F998E065F102}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darpa\\source\\repos\\Darpana-iitgn\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\Program.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\Program.cs",
+              "ToolTip": "C:\\Users\\darpa\\source\\repos\\Darpana-iitgn\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\Program.cs",
+              "RelativeToolTip": "OrderPipeline\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:41:43.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderPipelineForm.cs",
+              "DocumentMoniker": "C:\\Users\\darpa\\source\\repos\\Darpana-iitgn\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\OrderPipelineForm.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\OrderPipelineForm.cs",
+              "ToolTip": "C:\\Users\\darpa\\source\\repos\\Darpana-iitgn\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\OrderPipelineForm.cs",
+              "RelativeToolTip": "OrderPipeline\\OrderPipelineForm.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAtwIcBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:39:55.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
