@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darpa\\source\\repos\\Darpana-iitgn\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\OrderPipeline.csproj",
+      "projectUniqueName": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\OrderPipeline.csproj",
       "projectName": "OrderPipeline",
-      "projectPath": "C:\\Users\\darpa\\source\\repos\\Darpana-iitgn\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\OrderPipeline.csproj",
+      "projectPath": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\OrderPipeline.csproj",
       "packagesPath": "C:\\Users\\darpa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darpa\\source\\repos\\Darpana-iitgn\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\obj\\",
+      "outputPath": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\OrderPipeline\\OrderPipeline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
