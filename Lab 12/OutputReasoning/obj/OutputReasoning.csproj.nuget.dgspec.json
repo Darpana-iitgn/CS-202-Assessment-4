@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning\\OutputReasoning.csproj": {}
+    "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning\\OutputReasoning.csproj": {
+    "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning\\OutputReasoning.csproj",
+        "projectUniqueName": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning.csproj",
         "projectName": "OutputReasoning",
-        "projectPath": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning\\OutputReasoning.csproj",
+        "projectPath": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning.csproj",
         "packagesPath": "C:\\Users\\darpa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\OutputReasoning\\obj\\",
+        "outputPath": "C:\\Users\\darpa\\Downloads\\sem 5\\STT for CSE\\CS-202-Assessment-4\\Lab 12\\OutputReasoning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
