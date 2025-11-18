@@ -1,0 +1,14 @@
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\bin\Debug\net8.0\Ouptut Reasoning.exe
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\bin\Debug\net8.0\Ouptut Reasoning.deps.json
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\bin\Debug\net8.0\Ouptut Reasoning.runtimeconfig.json
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\bin\Debug\net8.0\Ouptut Reasoning.dll
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\bin\Debug\net8.0\Ouptut Reasoning.pdb
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\Ouptut Reasoning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\Ouptut Reasoning.AssemblyInfoInputs.cache
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\Ouptut Reasoning.AssemblyInfo.cs
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\Ouptut Reasoning.csproj.CoreCompileInputs.cache
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\Ouptut Reasoning.dll
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\refint\Ouptut Reasoning.dll
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\Ouptut Reasoning.pdb
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\Ouptut Reasoning.genruntimeconfig.cache
+C:\Users\arpit\OneDrive\Desktop\STT-4\Ouptut Reasoning\obj\Debug\net8.0\ref\Ouptut Reasoning.dll
